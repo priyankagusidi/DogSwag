@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dogswag-381604",
+  "private_key_id": "fbc76bf282beddc6d98336359eb0e5731a8b1e57",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7Prwk4CLmZy3C\njxc5UqFp6uEMkXAYQBiIEQentT0z7PVH9JIdHhsfXZVQDEqon2UKVJDsTDoZf8U6\nJpA7FFrtE4XgD7Td4rxHFJIP8gFXkcslzp4zY4O3loATr6iUxsK7AdHI1Dta+zQo\nM9nC2d9uuGpcaFsmNHpMCqvfw7ew/dstXz2Bz5LUHZ5Ee6GfqA+rBZAO1ExL02xD\nXDI3mhLYY9B+xtNX8etOoeHcHSzTmUO+hS5KcUH9bAG6o5skExpQqgIpPebPpf1s\n+9XNf2sygzdWYH+6YXSBMEog/3Z4qYTpewW0Jmp6VMaFvBATgJUCRvUOuD11KT7n\n0KyXQHHRAgMBAAECggEACjvtkJ5niexNxfqILGvlwqJB1qwEUm7+aEF2B6aSR8pF\nxb8KVWkV1msJBC0Hz5uWrC/fE+s+qbIgF4OQEoqURazxfkOdgRspa0EmkpSJmj2v\nustGPkzMIDarnWfWcPtEHXCGBNIExH5CZYgf+NRrr+OIfLB/euEXZhyXNE3ANn4x\nfQ0YvZW+hM+39AKMNFkGSmDRBnx9SfYAD6QPXT7sZMc6TGOp81ajwuoM9vv+wCmy\nap2p7QX5iTvFMH3fBSRLkni+6Wwa79ay3yAHcSyZ/s+ZZert2W3VcKuEOM+aV9w9\n6MmpettJVZNYatNWJEtuUdOoXAwetm0QGGs7GJh8IQKBgQDulMdJjOoSC+UVxj4C\n6Vw4BCWz81hYJbpw6BlBJwh6/X2na453yuJY1Hj9DdT4Tl9K3z4eERHzyesXuEgw\nVnrOlT0zR0aVfPGT+i/wNiRSz1j8LdAwllaOr46ktX8y0i4bkvhj4IC11pnKHWyk\nkr63lkxNJ34tzJFz1gJkezJ5VQKBgQDI6nRgZaOaCs/93R1xn3tAd6BLpeG9qF0p\nQ8+ppVhxtlWTBMlFd5P+/4iG9xfpUwYLbn6gipFLHPgX34wxjlKicKV0iNf9IyH+\nZrm0DI+cyfcwCzz+WxiOu/rGajokh0evTa3Hqv+Za4H0ZAorWcQbpwOBMDu421oB\n2fcyQK0mjQKBgQCEtu5E08ZBU6yTeDt2kylhX605dNxn7FTSCcpCm9vzzp7fSs1t\nhcZzc336Bn+5wJ7xn02GnChIXMIR58kAWprl386zf6qb7WzUzA9uqC98gSsW3MU6\nweZUaQQIS43+TzymyhKyPGhcvou+CrAsvBSrO0gmgxmFkI44yYt7KaziIQKBgDGi\nKcm+kiH11dgDDckJ+uq8Iq9NdWzi8NDG3cAtBqJgxtcg8Y/lsHvoKJQe6ptLVUzx\nqPqEAMyrhWZwZTPA0w0qAtW9EI6KZVVxjyK5j6jOA/Csdg7n9jMcoSDvERoBCWZ3\nLB0NU0NVWa9EH3cCH/4sziLWBYrvNVcLv5N8gsnpAoGALBsUBQNJYfeSlcDwRQry\nqZuPiFySz6+LYPajeSnLrJjbJFPZmiL6UfW1URS+GrTv1IlDEJHKssxnKylJez51\nr87rrhIKix+SkEG5huKls4DSWfs6EyrBBIMHW83XAjAWf+yaFNdMxrTcccouhruo\namrUAgYdZHspPVgvBaKHBW4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dogswag@dogswag-381604.iam.gserviceaccount.com",
+  "client_id": "106047150654705050099",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dogswag%40dogswag-381604.iam.gserviceaccount.com"
+}

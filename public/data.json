@@ -1,0 +1,84 @@
+[
+    {
+        "_id": 1,
+      "name": "Dr. Sarah Lee ",
+      "experience": "8 years",
+      "country": "India",
+      "image": "https://i.ibb.co/37RnmwW/Avatar-3.png",
+      "city": "Bengaluru",
+      "professionalSummary": "I am a highly skilled and compassionate veterinarian with 10 years of experience in providing exceptional care to animals. My expertise lies in diagnosing and treating a diverse range of medical conditions, performing surgeries, and delivering preventive care to ensure the well-being of both companion animals and livestock. I am passionate about animal welfare and committed to delivering the highest standard of veterinary medicine.",
+      "education":[
+          "Doctor of Veterinary Medicine (DVM): University of Veterinary Sciences 2010",
+"Certification in Advanced Small Animal Surgery, 2012"
+],
+
+      "availableTimes": [
+        {
+          "day": "Monday",
+          "time": "9:00 AM - 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "time": "10:00 AM - 6:00 PM"
+        },
+        {
+          "day": "Friday",
+          "time": "9:00 AM - 1:00 PM"
+        }
+      ],
+      "hospitalName": " Animal Care Hospital"
+    },
+
+    {
+        "_id": 2,
+      "name": "Dr. Sarah Johnson",
+      "experience": "14 years",
+      "country": "India ",
+      "image": "https://i.ibb.co/ZN44K0s/Avatar-4.png",
+
+      "city": "Mumbai",
+      "professionalSummary": "I am a highly skilled and compassionate veterinarian with 10 years of experience in providing exceptional care to animals. My expertise lies in diagnosing and treating a diverse range of medical conditions, performing surgeries, and delivering preventive care to ensure the well-being of both companion animals and livestock. I am passionate about animal welfare and committed to delivering the highest standard of veterinary medicine.",
+      "education": "Bachelor of Veterinary Medicine (BVM)",
+      "availableTimes": [
+        {
+          "day": "Tuesday",
+          "time": "8:00 AM - 4:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "time": "11:00 AM - 7:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "time": "9:00 AM - 3:00 PM"
+        }
+      ],
+      "hospitalName": "Mumbai Veterinary Clinic"
+    },
+    {
+        "_id" : 3,
+      "name": "Dr. Jason Smth",
+      "experience": "5 years",
+      "country": "India ",
+      "image": "https://i.ibb.co/gmZGssM/Avatar-5.png",
+      "city": "Dillih",
+      "professionalSummary": "I am a highly skilled and compassionate veterinarian with 10 years of experience in providing exceptional care to animals. My expertise lies in diagnosing and treating a diverse range of medical conditions, performing surgeries, and delivering preventive care to ensure the well-being of both companion animals and livestock. I am passionate about animal welfare and committed to delivering the highest standard of veterinary medicine.",
+      "education": "Bachelor of Veterinary Medicine (BVM)",
+      "availableTimes": [
+        {
+          "day": "Tuesday",
+          "time": "8:00 AM - 4:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "time": "11:00 AM - 7:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "time": "9:00 AM - 3:00 PM"
+        }
+      ],
+      "hospitalName": "Dillih Veterinary Clinic"
+    }
+  ]
+
